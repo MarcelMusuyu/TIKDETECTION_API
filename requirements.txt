@@ -1,8 +1,8 @@
 fastapi
-uvicorn
+uvicorn[standard]
 tensorflow-cpu
-pillow
+ultralytics
+opencv-python-headless
 python-multipart
 numpy
-joblib
-scikit-image
+pillow
